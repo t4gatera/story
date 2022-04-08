@@ -1,5 +1,2 @@
 It was the best of times, it was the worst times
-
-I am adding new contents that I will save to see what comes as changes
-
-The second change is coming in
+ These changes are not impactful
